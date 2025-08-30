@@ -2,7 +2,7 @@
 
 
 <h3 align="center">A software engineer from Accra, Ghana</h3>
-<p alignt="center"> In a town called lakeside</p>
+<p align="center"> In a town called lakeside</p>
 
 
 - 🌱 I’m currently learning programming languages and concepts
